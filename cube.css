@@ -1,0 +1,16 @@
+#wrapped{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+#cube{
+    display : flex;
+    display : "Times New Roman"(40px);
+    height: 200px;
+    width: 200px;
+    background-color: rgb(136,174,136);
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
